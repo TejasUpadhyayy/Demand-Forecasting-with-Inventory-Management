@@ -1,7 +1,3 @@
-Here's an enhanced version of your README file, designed to make your project stand out:
-
----
-
 # **Demand Forecasting And Inventory Management**
 
 ## **Overview**
@@ -96,10 +92,8 @@ I welcome contributions to improve forecasting accuracy or inventory strategies.
 
 ## **Contact**
 Feel free to reach out for feedback or collaboration:
-- **Your Name**
-- **Your Email**
+- Tejas Upadhyay
+- upadhyaytejas46@gmail.com
 - Project Link: [GitHub Repository](https://github.com/yourusername/demand-forecasting-inventory-management)
 
 ---
-
-This version balances technical depth, a personal touch, and highlights the scalability of your project, while subtly hinting that it can have real-world business impact.
