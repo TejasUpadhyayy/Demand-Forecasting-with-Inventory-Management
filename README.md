@@ -8,7 +8,7 @@ This project transcends basic inventory management by combining cutting-edge dem
 ## **About the Project**
 Imagine a scenario where businesses constantly grapple with overstocking or stockouts. Having worked with real-world data, I wanted to solve this challenge by applying advanced forecasting models and inventory management principles. This project isn’t just a tool—it’s a framework that equips businesses to stay competitive. I wanted it to be modular, scalable, and something that turns historical data into actionable insights.
 
-Leveraging tools like **ARIMA**, **SARIMA**, and ****, combined with robust optimization techniques like **EOQ** and **Reorder Point Calculations**, this project aims to offer both technical depth and real-world impact. Whether you’re from retail, manufacturing, or distribution, this project brings data science to the forefront of business operations.
+Leveraging tools like **ARIMA**, **SARIMA**, combined with robust optimization techniques like **EOQ** and **Reorder Point Calculations**, this project aims to offer both technical depth and real-world impact. Whether you’re from retail, manufacturing, or distribution, this project brings data science to the forefront of business operations.
 
 ---
 
@@ -26,7 +26,6 @@ Leveraging tools like **ARIMA**, **SARIMA**, and ****, combined with robust opti
 Forecasting demand involves leveraging historical sales data and applying time series models. The project employs:
 - **ARIMA (AutoRegressive Integrated Moving Average)** for capturing trend and seasonality.
 - **SARIMA (Seasonal ARIMA)** for seasonal adjustment.
-- **Facebook ** for robust forecasting with missing data handling.
 These models help predict customer demand patterns, offering foresight into future orders and stock needs.
 
 ### **2. Inventory Optimization**
