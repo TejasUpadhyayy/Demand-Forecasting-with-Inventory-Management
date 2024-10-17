@@ -94,6 +94,6 @@ I welcome contributions to improve forecasting accuracy or inventory strategies.
 Feel free to reach out for feedback or collaboration:
 - Tejas Upadhyay
 - upadhyaytejas46@gmail.com
-- Project Link: [GitHub Repository](https://github.com/yourusername/demand-forecasting-inventory-management)
+- Project Link: https://github.com/yourusername/demand-forecasting-inventory-management)](https://github.com/TejasUpadhyayy/Demand-Forecasting-with-Inventory-Management
 
 ---
